@@ -1,0 +1,39 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:PolynomialXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.4">
+      <PolynomialOrder>1</PolynomialOrder>
+      <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+        <XOrigin>-1810.5</XOrigin>
+        <YOrigin>-2021.5</YOrigin>
+        <XYScale>1990541271765.9646</XYScale>
+        <XYTolerance>1.0047518372857669e-012</XYTolerance>
+        <HighPrecision>true</HighPrecision>
+      </SpatialReference>
+      <SourceGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>565.91354951060021</Double>
+        <Double>-18.233412556311578</Double>
+        <Double>432.42239133023213</Double>
+        <Double>-657.16537044828647</Double>
+        <Double>95.433809780623307</Double>
+        <Double>-455.95949090573146</Double>
+        <Double>15.639354095639487</Double>
+        <Double>-270.49789962908949</Double>
+      </SourceGCPs>
+      <TargetGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>210.27180482320671</Double>
+        <Double>52.381758513172997</Double>
+        <Double>141.13240052633171</Double>
+        <Double>-270.0856487133895</Double>
+        <Double>-17.180355844226199</Double>
+        <Double>-160.23481308689023</Double>
+        <Double>-70.592925946040154</Double>
+        <Double>-73.46674085649218</Double>
+      </TargetGCPs>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
