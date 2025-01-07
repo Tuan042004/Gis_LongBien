@@ -1,0 +1,39 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:PolynomialXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.4">
+      <PolynomialOrder>1</PolynomialOrder>
+      <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+        <XOrigin>-1304.5</XOrigin>
+        <YOrigin>-2438.5</YOrigin>
+        <XYScale>2215793174598.0293</XYScale>
+        <XYTolerance>9.0261131902025257e-013</XYTolerance>
+        <HighPrecision>true</HighPrecision>
+      </SpatialReference>
+      <CoeffX xsi:type="typens:ArrayOfDouble">
+        <Double>218.81942033070814</Double>
+        <Double>1.0035950830868212</Double>
+        <Double>-0.00021819692031675651</Double>
+      </CoeffX>
+      <CoeffY xsi:type="typens:ArrayOfDouble">
+        <Double>369.05625539560629</Double>
+        <Double>0.00021819692031675651</Double>
+        <Double>1.0035950830868212</Double>
+      </CoeffY>
+      <InverseCoeffX xsi:type="typens:ArrayOfDouble">
+        <Double>-218.11550509448114</Double>
+        <Double>0.9964177481368568</Double>
+        <Double>0.00021663645792662579</Double>
+      </InverseCoeffX>
+      <InverseCoeffY xsi:type="typens:ArrayOfDouble">
+        <Double>-367.68679867296476</Double>
+        <Double>-0.00021663645792653919</Double>
+        <Double>0.9964177481368568</Double>
+      </InverseCoeffY>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
