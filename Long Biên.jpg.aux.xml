@@ -1,0 +1,47 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:PolynomialXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.4">
+      <PolynomialOrder>1</PolynomialOrder>
+      <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+        <XOrigin>-2030.5</XOrigin>
+        <YOrigin>-2501.5</YOrigin>
+        <XYScale>1774817587141.0818</XYScale>
+        <XYTolerance>1.1268763699945341e-012</XYTolerance>
+        <HighPrecision>true</HighPrecision>
+      </SpatialReference>
+      <SourceGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>304.34876467232158</Double>
+        <Double>-63.281871850779737</Double>
+        <Double>364.10813832891802</Double>
+        <Double>-65.377975119170628</Double>
+        <Double>233.08543706832617</Double>
+        <Double>-221.63739500770743</Double>
+        <Double>14.46721612840031</Double>
+        <Double>-272.02616361809413</Double>
+        <Double>403.72218264960804</Double>
+        <Double>-817.45393883261431</Double>
+        <Double>889.31777446115643</Double>
+        <Double>-52.257071175333749</Double>
+      </SourceGCPs>
+      <TargetGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>-29.910812364293292</Double>
+        <Double>-523.4825603344832</Double>
+        <Double>32.862625135706708</Double>
+        <Double>-526.93806570557695</Double>
+        <Double>-99.019210801793292</Double>
+        <Double>-682.4316570141707</Double>
+        <Double>-317.28617857523079</Double>
+        <Double>-731.9593669751082</Double>
+        <Double>73.967788709925458</Double>
+        <Double>-1277.7525798657332</Double>
+        <Double>555.99781800680046</Double>
+        <Double>-511.51466482667075</Double>
+      </TargetGCPs>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
